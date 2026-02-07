@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Mouloud Beldjoudi
 
-<!--
-**Mouloud2498/Mouloud2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en **Data Science** (Collège La Cité) • 📍 Gatineau (QC), Canada  
+💡 Intérêts : **Data Visualization**, **Machine Learning**, **Analyse de données**, **Optimisation**, **Cloud/GitHub**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos
+Je construis des projets data **de bout en bout** : nettoyage → analyse → visualisation → interprétation → (déploiement/partage).  
+Mon objectif : produire des résultats **clairs, utiles et orientés impact** (business / décision).
+
+---
+
+## 🧰 Compétences (Stack)
+- **Langages** : Python, SQL, R  
+- **Data / BI** : Power BI, Excel (Power Query), Data Storytelling, KPI  
+- **ML** : régression, classification, évaluation (MAE/MSE, accuracy), overfitting  
+- **Outils** : Git/GitHub, Jupyter, MySQL, MongoDB
+
+---
+
+## 🌐 Portfolio (site)
+👉 https://Mouloud2498.github.io/
+
+📄 **CV (PDF)** : ajoute ton CV dans ton site (ex: `assets/CV_Final MB.pdf`) puis mets le lien ici :  
+- [Télécharger mon CV](https://Mouloud2498.github.io/assets/CV_Final%20MB.pdf)
+
+---
+
+## ⭐ Projet vedette
+### 📊 Audit & Nettoyage d’un Dashboard (Gestalt + Hiérarchie visuelle)
+**Problème :** des visuels difficiles à lire → charge cognitive élevée → messages clés masqués.  
+**Solution :** audit selon Gestalt + corrections (proximité, similarité, hiérarchie, contraste).  
+**Résultat :** dashboard plus lisible, KPI plus visibles, lecture plus rapide.
+
+🔗 Repo : **(mets le lien ici)**  
+📸 Aperçu : ajoute 1–2 captures dans `/assets/` et mets-les ici :
+```md
+![Dashboard](assets/dashboard.png)
