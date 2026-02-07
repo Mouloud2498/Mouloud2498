@@ -35,6 +35,6 @@ Mon objectif : produire des résultats **clairs, utiles et orientés impact** (b
 📌 Repo : https://github.com/Mouloud2498/Optomisatiom_Flux_Logistique_VF.git
 
 ### Aperçu
-![Aperçu 1](assets/portfolio/logistics_overview.png)
-![Aperçu 2](assets/portfolio/logistics_results.png)
+![Aperçu 1](logistics_overview.png)
+![Aperçu 2](logistics_results.png)
 
