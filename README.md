@@ -26,13 +26,15 @@ Mon objectif : produire des résultats **clairs, utiles et orientés impact** (b
 
 ---
 
-## ⭐ Projet vedette
-### 📊 Audit & Nettoyage d’un Dashboard (Gestalt + Hiérarchie visuelle)
-**Problème :** des visuels difficiles à lire → charge cognitive élevée → messages clés masqués.  
-**Solution :** audit selon Gestalt + corrections (proximité, similarité, hiérarchie, contraste).  
-**Résultat :** dashboard plus lisible, KPI plus visibles, lecture plus rapide.
+## ⭐ Projet phare — Optimisation des commandes logistiques (Affectation Commandes → Camions)
 
-🔗 Repo : **(mets le lien ici)**  
-📸 Aperçu : ajoute 1–2 captures dans `/assets/` et mets-les ici :
-```md
-![Dashboard](assets/dashboard.png)
+**Problème :** affecter les commandes aux camions de façon optimale pour réduire les coûts et améliorer la performance de livraison.  
+**Approche :** nettoyage des données → définition des contraintes → modèle d’optimisation → analyse des gains.  
+**Impact :** réduction des coûts, meilleure utilisation des camions, décisions plus rapides.
+
+📌 Repo : https://github.com/Mouloud2498/LOGISTICS-OPTIMIZATION (à remplacer)
+
+### Aperçu
+![Aperçu 1](assets/portfolio/logistics_overview.png)
+![Aperçu 2](assets/portfolio/logistics_results.png)
+
