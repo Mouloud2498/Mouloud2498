@@ -32,7 +32,7 @@ Mon objectif : produire des résultats **clairs, utiles et orientés impact** (b
 **Approche :** nettoyage des données → définition des contraintes → modèle d’optimisation → analyse des gains.  
 **Impact :** réduction des coûts, meilleure utilisation des camions, décisions plus rapides.
 
-📌 Repo : https://github.com/Mouloud2498/LOGISTICS-OPTIMIZATION (à remplacer)
+📌 Repo : https://github.com/Mouloud2498/Optomisatiom_Flux_Logistique_VF.git
 
 ### Aperçu
 ![Aperçu 1](assets/portfolio/logistics_overview.png)
