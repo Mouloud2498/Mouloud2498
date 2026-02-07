@@ -22,8 +22,7 @@ Mon objectif : produire des résultats **clairs, utiles et orientés impact** (b
 ## 🌐 Portfolio (site)
 👉 https://Mouloud2498.github.io/
 
-📄 **CV (PDF)** : ajoute ton CV dans ton site (ex: `assets/CV_Final MB.pdf`) puis mets le lien ici :  
-- [Télécharger mon CV](https://Mouloud2498.github.io/assets/CV_Final%20MB.pdf)
+📄 [Télécharger mon CV](https://Mouloud2498.github.io/assets/CV_Final%20MB.pdf)
 
 ---
 
